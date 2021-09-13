@@ -8,5 +8,5 @@
 
 <img width="100" height="100" src="./png/어플.jpg"></img>
 
-<img width="300" height="300" src="./png/2주차.JPG"></img>
+<img width="" height="" src="./png/2주차.JPG"></img>
 
