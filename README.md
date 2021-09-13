@@ -1,2 +1,1 @@
-# MyFirstRepository
-Tutorial Repository
+20173013_김여진
