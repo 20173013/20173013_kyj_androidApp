@@ -25,3 +25,6 @@
 ## 5주차
 <img width="" height="" src="./png/5주차 과제 1.JPG"></img>
 <img width="" height="" src="./png/5주차 과제 2.JPG"></img>
+## 6주차
+<img width="" height="" src="./png/1.JPG"></img>
+<img width="" height="" src="./png/2.JPG"></img>
