@@ -37,6 +37,6 @@
 ## 11주차
 <img width="" height="" src="./png/11.JPG"></img>
 ## 12주차
-<img width="" height="" src="./png/12주차.JPG"></img>
+<img width="" height="" src="./png/12.JPG"></img>
 
 
